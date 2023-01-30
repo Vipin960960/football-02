@@ -1,7 +1,4 @@
 new changes
 changes2
-<<<<<<< HEAD
 m3 creating conflict
-=======
 f3 creating conflict
->>>>>>> feature
