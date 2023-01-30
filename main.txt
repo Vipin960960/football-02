@@ -1,4 +1,5 @@
 new changes
 changes2
+f3 creating conflict
 
 creating merge conflict
